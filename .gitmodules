@@ -1,0 +1,6 @@
+[submodule "voting-server"]
+	path = voting-server
+	url = https://github.com/LouYu2015/voting-server.git
+[submodule "voting-client"]
+	path = voting-client
+	url = https://github.com/LouYu2015/voting-client.git
